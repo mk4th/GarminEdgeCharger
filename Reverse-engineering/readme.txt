@@ -6,7 +6,13 @@ Picture description:
 •	ID: is a close up on the ID pad related components.
 •	OrgBat: is some info about the original battery cell. It has the manual measurements that I took and the printed number that also hold information about the size.
 •	Pack: is the decal on the pack 7.6V and 2220mAh results in somewhat above the 16.8Wh. Divide it by 5V, and you will get 3.37Ah, which is slightly higher than the declared 3.3Ah.
-•	Main Chip: is well… the main chip in the board. I could not find a data sheet for it.
+•	Main Chip: is well… the main chip in the board. That seems as the ACT2804.
+•	PCB_ContactSide and PCB_ConnectorsSide: Wide view of the PCB from both sides.
+•	PCB_#: General pictures of the PCB compenents.
+•	Active#1: Seems to some power compnent. TBD
+•	Active#2: TBD.
+
 Next:
+•	Determine active components.
 •	To find where the ID via leads
 •	Measure the pads under load
